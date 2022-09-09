@@ -8,7 +8,7 @@ Some of my current ambitions/projects include,
 
 Some projects I've completed,
 
-- MIPS Assembly Maze w/ randomizer using MARS
+- [MIPS Assembly Maze w/ randomizer using MARS]
 <br><br>
 
 Experience with,
@@ -29,3 +29,5 @@ daikon#0006 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;じしf_)ノ<br>
 &nbsp;&nbsp;122620
 </p>
+
+[MIPS Assembly Maze w/ randomizer using MARS]: https://github.com/daikonk/mazeGameMARS
