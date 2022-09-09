@@ -4,29 +4,28 @@ Some of my current ambitions/projects include,
 
 - Machine Learning/AI
 - Apex Legends API project
-
-
+<br><br>
 
 Some projects I've completed,
 
 - MIPS Assembly Maze w/ randomizer using MARS
-
-
+<br><br>
 
 Experience with,
 
 - C, C++, MIPS Assembly
+<br><br>
 
+You can reach me at any of the following,
 
+daikon#0006 <br>
+@nstonekng
+<br><br>
 
-The best place to reach me is discord, working on getting an instagram up in the near future
-
-daikon#0006
 <p align="center">
 ╱|、<br>
-(°、。フ<br>
+&nbsp;(°、。フ<br>
+|、&nbsp;~\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;じしf_)ノ<br>
+&nbsp;&nbsp;122620
 </p>
-<p2 style="float:left">|、~\</p2>
-</p>
-じしf_)ノ<br>
-122620
