@@ -3,6 +3,7 @@ Hi! My name is Nick and I am currently undergoing a degree in Computer Engineeri
 Some of my current ambitions/projects include,
 
 - Machine Learning/AI
+- [amiami bot]
 - [Apex Legends API project]
 <br><br>
 
@@ -13,7 +14,7 @@ Some projects I've completed,
 
 Experience with,
 
-- C, C++, MIPS Assembly
+- C, C++, MIPS Assembly, python
 <br><br>
 
 You can reach me at any of the following,
@@ -32,3 +33,4 @@ daikon#0006 <br>
 
 [MIPS Assembly Maze w/ randomizer using MARS]: https://github.com/daikonk/mazeGameMARS
 [Apex Legends API project]: https://github.com/daikonk/apexAPIDiscordBot
+[amiami bot]: https://github.com/daikonk/amiamiAPIDiscordBot
