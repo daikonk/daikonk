@@ -9,4 +9,4 @@
 
 ## Fun/Purposeless Projects
 
-🐈‍⬛[Go Interpreter](): An Interpreter in go, with a REPL and a cli option to run code in a file.
+🐈‍⬛[Go Interpreter](https://github.com/daikonk/go_interpreter): An Interpreter in go, with a REPL and a cli option to run code in a file.
