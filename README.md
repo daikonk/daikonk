@@ -10,3 +10,4 @@
 ## Fun/Purposeless Projects
 
 🐈‍⬛[Go Interpreter](https://github.com/daikonk/go_interpreter): An Interpreter in go, with a REPL and a cli option to run code in a file.
+🧂[MIPS Assembly Maze Game](https://github.com/daikonk/mips-maze): A maze game where you collect keys written in assembly (one of my first projects i finished)
