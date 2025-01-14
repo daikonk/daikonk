@@ -10,4 +10,4 @@
 📓[School/Small Projects](https://github.com/daikonk/learning-projects): A compilation of HW and small projects to gain language experience<br />
 
 ## Small Projects
-- reverse-polish-notation-calculator (string parsing/input validation, stack operation)
+- reverse-polish-notation-calculator (string parsing/input validation, stack, c++)
