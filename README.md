@@ -1,6 +1,6 @@
 ## Closed-Source Projects
 
-🟦[MockTalk](https://mocktalk.app/): A mock interview platform for Software Engineers and Product Managers looking to sharpen their tech interviewing skills
+🟦[MockTalk](https://mocktalk.app/): A mock interview platform for Software Engineers and Product Managers looking to sharpen their tech interviewing skills (currently on hiatus)
 
 ## Fun/Purposeless Projects
 
